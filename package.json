@@ -1,0 +1,28 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "creating cafe menu usinbg web programming language",
+  "main": "app.js",
+  "scripts": {
+    "test": "workshopkl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mommocmoc/klworkshop.git"
+  },
+  "keywords": [
+    "js",
+    "matterjs",
+    "nodejs",
+    "express"
+  ],
+  "author": "JaeHwan So",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mommocmoc/klworkshop/issues"
+  },
+  "homepage": "https://github.com/mommocmoc/klworkshop#readme",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
